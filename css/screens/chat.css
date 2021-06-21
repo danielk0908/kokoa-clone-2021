@@ -11,6 +11,10 @@
   z-index: 2;
 }
 
+.main-screen {
+  margin-bottom: 10px;
+}
+
 .main-chat {
   display: flex;
   flex-direction: column;
